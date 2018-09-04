@@ -188,6 +188,9 @@ header {
   height:310px;
   padding-bottom: 15px;
 }
+.img-circle {
+    border-radius: 10%;
+}
 #meanStack{
   height: 310px;
   margin: 0 auto;
